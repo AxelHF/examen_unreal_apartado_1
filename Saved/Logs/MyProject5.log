@@ -7432,3 +7432,18 @@ Script Stack (0 frames) :
 [2024.07.13-19.05.59:157][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 3.48 sec)
 [2024.07.13-19.05.59:159][458]AssetCheck: New page: Asset Save: ThirdPersonMap
 [2024.07.13-19.05.59:159][458]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.07.13-19.12.45:735][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.13-19.12.45:815][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.07.13-19.12.45:827][399]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.07.13-19.12.45:828][399]LogSavePackage: Moving '../../../../../../Users/alex1/OneDrive/Documentos/Unreal Projects/MyProject5/Saved/ThirdPersonMap9DCC22464CE245FEA477D897DE9E5D2E.tmp' to '../../../../../../Users/alex1/OneDrive/Documentos/Unreal Projects/MyProject5/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.07.13-19.12.45:830][399]LogFileHelpers: All files are already saved.
+[2024.07.13-19.12.45:831][399]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.043
+[2024.07.13-19.12.45:839][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 3.58 sec)
+[2024.07.13-19.12.45:841][399]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2024.07.13-19.12.45:841][399]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.07.13-19.14.00:322][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.13-19.14.00:393][230]LogSavePackage: Moving output files for package: /Game/BP_SwitchablePlayerController
+[2024.07.13-19.14.00:393][230]LogSavePackage: Moving '../../../../../../Users/alex1/OneDrive/Documentos/Unreal Projects/MyProject5/Saved/BP_SwitchablePlayerController0594CC11469414C6B671B0AF2E46D127.tmp' to '../../../../../../Users/alex1/OneDrive/Documentos/Unreal Projects/MyProject5/Content/BP_SwitchablePlayerController.uasset'
+[2024.07.13-19.14.00:402][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 3.66 sec)
+[2024.07.13-19.14.00:403][230]AssetCheck: New page: Asset Save: BP_SwitchablePlayerController
+[2024.07.13-19.14.00:403][230]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_SwitchablePlayerController.BP_SwitchablePlayerController
